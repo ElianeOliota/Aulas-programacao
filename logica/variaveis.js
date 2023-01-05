@@ -30,3 +30,4 @@ let aula_facil = false
 let prof_top = true
 
 console.error(`as variáveis booleana são:`, aula_facil, prof_top)
+
